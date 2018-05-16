@@ -57,8 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Driver.cs" />
-    <Compile Include="Pages\WorkPage.cs" />
     <Compile Include="Pages\MenuPage.cs" />
+    <Compile Include="Pages\WorkPage.cs" />
     <Compile Include="Pages\HomePage.cs" />
     <Compile Include="Pages\AboutPage.cs" />
     <Compile Include="Pages\ServicesPage.cs" />

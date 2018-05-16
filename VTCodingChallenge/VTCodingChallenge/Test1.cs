@@ -59,8 +59,12 @@ namespace VTCodingChallenge
             Driver.waitForElement(theWorkPage.WorkHeader);
             Assert.IsTrue(theWorkPage.WorkHeader.Displayed);
 
+            theMenuPage.clickOnContactsLink();
+            Console.WriteLine("Number of Valtech offices = " + theMenuPage.getNumberofOffices());
+            System.Diagnostics.Debug.WriteLine("Number of Valtech offices = " + theMenuPage.getNumberofOffices());
             
-            
+            Driver.pause(2000);
+
         }
 
         [TestCleanup]
