@@ -1,0 +1,17 @@
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\VTCodingChallenge.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\VTCodingChallenge.pdb
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\WebDriver.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\WebDriver.Support.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\WebDriver.xml
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\bin\Debug\WebDriver.Support.xml
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\obj\Debug\VTCodingChallenge.csprojResolveAssemblyReference.cache
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\obj\Debug\VTCodingChallenge.csproj.CoreCompileInputs.cache
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\obj\Debug\VTCodingChallenge.dll
+c:\users\gregm\source\repos\VTCodingChallenge\VTCodingChallenge\obj\Debug\VTCodingChallenge.pdb
